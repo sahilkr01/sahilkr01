@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sahil kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
 <img align="right" width="400" alt="sahilkr01" src="https://camo.githubusercontent.com/1b256a2f1b9f433ef807f42de0b3cc25c1ba9f78c10bc53df6d1bc841c983398/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkr01&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkr01" /> </p>
@@ -12,6 +13,8 @@
 - 📫 How to reach me **skthegreat0398@gmail.com**
 
 - ⚡ Fun fact **I am little funny😂😊**
+
+- A **Rubik's Cube mosaic** artist🎲🏆
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
